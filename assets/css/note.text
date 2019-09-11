@@ -1,0 +1,11 @@
+1.	prefixfree.min.js{
+	Hỗ trợ add prefixfree css cho từng trình duyệt khác nhau
+}
+
+2.	jquery.smartmenus.bootstrap.js, jquery.smartmenus.js{
+	Dùng để tạo smartmenu trên màn hình điện thoại
+}
+
+3.	font.css{
+	Chứa css của google font @font-face Roboto
+}
